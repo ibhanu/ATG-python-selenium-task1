@@ -1,5 +1,5 @@
 # ATG-python-selenium-task1
-Selenium Python bindings provide a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
+[Selenium](https://selenium-python.readthedocs.io/index.html) Python bindings provide a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
 
 Selenium Python bindings provide a convenient API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote, etc. The currently supported Python versions are 2.7, 3.5 and above.
 
