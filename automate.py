@@ -11,7 +11,7 @@ logging.basicConfig(filename='myapp.log', level=logging.INFO)
 
 logging.info('Automation Started at %s'%datetime.now())
 
-driver = webdriver.Chrome('/home/bhanu/ChromeDriver/chromedriver')  # Optional argument, if not specified will search path.
+driver = webdriver.Chrome('/home/user/PATH/ChromeDriver/chromedriver')  # Optional argument, if not specified will search path.
 starttime = time.time()
 
 driver.get('http://www.atg.party/')
